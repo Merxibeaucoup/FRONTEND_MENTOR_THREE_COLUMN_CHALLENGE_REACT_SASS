@@ -4,7 +4,9 @@ import Box from "./components/Box";
 const App = () => {
   return (
     <div>
-      <Box />
+      <main>
+        <Box />
+      </main>
     </div>
   );
 };
